@@ -1,0 +1,6 @@
+gradio==5.50.0
+Pillow==11.3.0
+torch==2.9.0+cu126
+torchvision==0.24.0+cu126
+diffusers==0.30.0
+transformers==4.57.3
